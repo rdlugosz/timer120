@@ -1,7 +1,7 @@
 # timer120
 Simple iOS app that displays the current CPU time of the device in large text as well as the current FPS of the app. The main loop is syncronized with the refresh rate of the display, making this useful as a time reference in high speed recordings.
 
-![App Demo](https://media.giphy.com/media/ib9w8QD1TG3X1ZE5tf/giphy.gif)
+![App Demo](app_demo.gif)
 
 It is named "Timer 120" because: 1. an XCode project has to have a name, and 2. the 2018 iPad Pro this was written to run on has a refresh rate of 120Hz. Note that on older iPads or iPhones you may only be able to achieve a 60Hz resolution.
 
