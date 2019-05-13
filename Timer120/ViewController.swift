@@ -38,7 +38,7 @@ class ViewController: UIViewController {
         let formattedTime = "\(left).\(right)"
         
         //log to console for debugging
-        print("\(time) - \(formattedTime)")
+//        print("\(time) - \(formattedTime)")
         
         timeLabel.text = "\(formattedTime)"
         fpsLabel.text = "FPS: \(fps)"
